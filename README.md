@@ -26,7 +26,7 @@
 
 A **mod APK** (modified Android Package) is an altered version of an original Android application. These modifications are made by third parties — not the original developers — and can change the behavior, appearance, or functionality of an app.
 
-For example, [Nulls Brawl APK](https://nullsbrawltr.com/) is a well-known modified version of the popular mobile game Brawl Stars. It provides a private server experience where players can access characters, skins, and resources that would otherwise require in-app purchases — making it a great case study for understanding how mod APKs work in practice.
+For example, [Nulls Brawl APK oyun](https://nullsbrawltr.com/) is a well-known modified version of the popular mobile game Brawl Stars. It provides a private server experience where players can access characters, skins, and resources that would otherwise require in-app purchases — making it a great case study for understanding how mod APKs work in practice.
 
 Understanding how mod APKs work is important for:
 
